@@ -1,0 +1,13 @@
+Dear Sir/Madam,
+During the analysis of this transaction dataset, the following data quality observations were identified:
+1. Absence of Transaction Time Data - Time-of-day analysis could not be conducted.
+2. No Unique Transaction Identifier - Potential difficulty in detecting duplicate records.
+
+Therefore, only monthly and customer-level insights were successfully derived.
+
+For future data collection, I recommend:
+1. Provide Transaction Timestamp
+2. Implement Unique Transaction IDs
+
+Kind regards,
+Arafat.
